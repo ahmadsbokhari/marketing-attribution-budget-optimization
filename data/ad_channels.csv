@@ -1,0 +1,17 @@
+channel_id,channel
+1,Search Engine-SearchPartnerA_Convertible
+2,Search Engine-SearchPartnerA_Sedan
+3,Search Engine-SearchPartnerA_Truck
+4,Search Engine-SearchPartnerB_Convertible
+5,Search Engine-SearchPartnerB_Sedan
+6,Search Engine-SearchPartnerB_Truck
+7,Online Video-VideoPlatformA_Teen
+8,Online Video-VideoPlatformA_25+
+9,Online Video-VideoPlatformB_Teen
+10,Online Video-VideoPlatformB_25+
+11,Finance Partnership-FinancePartnerA
+12,Finance Partnership-FinancePartnerB
+13,Social Media-SocialPlatformA
+14,Social Media-SocialPlatformB
+15,Third Party Listing-ListingPartnerA
+16,Third Party Listing-ListingPartnerB
